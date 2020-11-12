@@ -1,0 +1,24 @@
+{
+"product": [
+{"id":1,"name":"Crab-eating raccoon","category":"Blue"},
+{"id":2,"name":"Whale, baleen","category":"Pink"},
+{"id":3,"name":"Green-winged macaw","category":"Teal"},
+{"id":4,"name":"Sambar","category":"Yellow"},
+{"id":5,"name":"Gnu, brindled","category":"Pink"},
+{"id":6,"name":"Dragon, western bearded","category":"Purple"},
+{"id":7,"name":"Bandicoot, short-nosed","category":"Turquoise"},
+{"id":8,"name":"Eurasian red squirrel","category":"Goldenrod"},
+{"id":9,"name":"Ring dove","category":"Fuscia"},
+{"id":10,"name":"Greater flamingo","category":"Red"},
+{"id":11,"name":"Python (unidentified)","category":"Violet"},
+{"id":12,"name":"Pampa gray fox","category":"Yellow"},
+{"id":13,"name":"Red howler monkey","category":"Fuscia"},
+{"id":14,"name":"Green-backed heron","category":"Fuscia"},
+{"id":15,"name":"Crimson-breasted shrike","category":"Goldenrod"},
+{"id":16,"name":"Hawk, galapagos","category":"Orange"},
+{"id":17,"name":"Goose, knob-nosed","category":"Khaki"},
+{"id":18,"name":"Fox, crab-eating","category":"Puce"},
+{"id":19,"name":"Nine-banded armadillo","category":"Yellow"},
+{"id":20,"name":"Ground legaan","category":"Red"}
+]
+}
